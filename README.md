@@ -4,7 +4,7 @@
 SKILL
 ---------------------------------------------------
 + strong : C++, C
-+ experienced : C++, JAVA, Phython, Kotlin, SQL, C, JavaScript
++ experienced : C++, JAVA, Python, Kotlin, SQL, C, JavaScript
 
 Experience & Projects
 ---------------------------------------------------
