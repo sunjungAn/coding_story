@@ -3,8 +3,8 @@
 
 SKILL
 ---------------------------------------------------
-strong : C++, C
-experienced : C++, JAVA, Phython, Kotlin, SQL, C, JavaScript
++ strong : C++, C
++ experienced : C++, JAVA, Phython, Kotlin, SQL, C, JavaScript
 
 Experience & Projects
 ---------------------------------------------------
