@@ -22,6 +22,12 @@ Experience & Projects
         + instagram 카피앱
         + firebase와 연동하여 기능 구현
         + firebase의 전반적인 기능 담당
+     
+### Turtle neck | (2020.03 ~ 2020.06) - Main Coder
+        + android studio에서 제공하는 센서를 적용한 기능
+        + 거북목을 예방하기 위해 50도 이하로 휴대폰을 기울이면 자동으로 밝기가 어두워지는 기능
+        + 스트레칭 정보 제공 기능
+        + 센서이용한 기능을 중심으로 전반적인 기능 담당
    
 ### Handwriting Correction WEbsite | (2020.08)
         + 인공지능 모델과 OpenCv를 이용하여 손글씨를 인식하여 캘리그라피를 연습할 수 있는 기능을 구현
