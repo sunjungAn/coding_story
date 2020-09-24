@@ -18,7 +18,7 @@ Experience & Projects
         + 서울시 거리중 유명한 거리나, 식당을 각 지역별로 추천해주는 기능
         + Google API를 이용하여 가볼만 한 장소를 찍어주어 제공하는 기능
   
-### Inyro gram | (2019.12 ~ 2020.02)
+### Inyro gram | (2019.12 ~ 2020.02) 
         + instagram 카피앱
         + firebase와 연동하여 기능 구현
         + firebase의 전반적인 기능 담당
@@ -29,7 +29,7 @@ Experience & Projects
         + 스트레칭 정보 제공 기능
         + 센서이용한 기능을 중심으로 전반적인 기능 담당
    
-### Handwriting Correction WEbsite | (2020.08)
+### Handwriting Correction WEbsite | (2020.08) - Sub Coder
         + 인공지능 모델과 OpenCv를 이용하여 손글씨를 인식하여 캘리그라피를 연습할 수 있는 기능을 구현
         + 데이터 수집과 인식률을 높이기 위한 데이터 처리와 OpenCv 적용 담당
        
