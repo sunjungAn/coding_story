@@ -12,6 +12,11 @@ Experience & Projects
             1. python (2020.03~ 2020.08)
             2. C (2020.09 ~ 2020.12)
             3. android develop (2020.07 ~ 2020.10)
+            4. DataStructure (2020.12 ~ 2021.2)
+            
+
+### inyro programming club 
+            + 이니로 프로그래밍 동아리 회장(2021)
    
 ### DDUBUCK SEOUL | (2019.09~2019.10)
         + 서울시 거리 홍보 공모전 제출 프로젝트
