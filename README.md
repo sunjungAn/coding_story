@@ -51,22 +51,23 @@ Experience & Projects
 
 ### 2020년 1학기
 + 파이썬 멘토
++ [상명대학교 상생플러스 프로젝트 부문 참가(turtle neck 프로젝트)](https://github.com/sunjungAn/turtle_neck)
 
 ### 2020년 하계방학
-+ 손글씨 기반으로한 손글씨 교정 웹사이트 프로젝트
++ [2020년 제 14회 공개 SW 개발자 대회 참여 프로젝트 (손글씨 기반으로한 손글씨 교정 웹사이트 프로젝트)](https://github.com/sunjungAn/hand_writing_correction_website)
 + 알고리즘 스터디
-+ promotion seoul 앱 프로젝트
++ [promotion seoul 앱 프로젝트](https://github.com/sunjungAn/promotion_seoul)
 
 ### 2020년 2학기
 + C프로그래밍 멘토
 + 코틀린 스터디
 
 ### 2021년 동계방학
-+ 파이썬을 활용한 머신러닝 스터디
++ [파이썬을 활용한 머신러닝 스터디](https://github.com/sunjungAn/Machine_Learning)
 + 코틀린 스터디
-+ AWS 스터디
-+ 자료구조 멘토
-
++ [AWS 스터디](https://github.com/sunjungAn/AWS_study)
++ [자료구조 멘토](https://github.com/sunjungAn/DataStructure_mentoring)
++ [머신러닝 관련 영상, 글 시청](https://github.com/sunjungAn/helpful-summary-of-the-article)
 
 
  
