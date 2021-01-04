@@ -68,6 +68,6 @@ Experience & Projects
 + [AWS 스터디](https://github.com/sunjungAn/AWS_study)
 + [자료구조 멘토](https://github.com/sunjungAn/DataStructure_mentoring)
 + [머신러닝 관련 영상, 글 시청](https://github.com/sunjungAn/helpful-summary-of-the-article)
-
++ [알고리즘](url)
 
  
