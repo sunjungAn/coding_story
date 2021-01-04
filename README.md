@@ -60,11 +60,11 @@ Experience & Projects
 
 ### 2020년 2학기
 + C프로그래밍 멘토
-+ 코틀린 스터디
++ [코틀린 스터디](https://github.com/sunjungAn/Kotlin_basic)
 
 ### 2021년 동계방학
 + [파이썬을 활용한 머신러닝 스터디](https://github.com/sunjungAn/Machine_Learning)
-+ 코틀린 스터디
++ [코틀린 스터디](https://github.com/sunjungAn/Kotlin_basic)
 + [AWS 스터디](https://github.com/sunjungAn/AWS_study)
 + [자료구조 멘토](https://github.com/sunjungAn/DataStructure_mentoring)
 + [머신러닝 관련 영상, 글 시청](https://github.com/sunjungAn/helpful-summary-of-the-article)
