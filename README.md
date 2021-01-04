@@ -55,7 +55,7 @@ Experience & Projects
 
 ### 2020년 하계방학
 + [2020년 제 14회 공개 SW 개발자 대회 참여 프로젝트 (손글씨 기반으로한 손글씨 교정 웹사이트 프로젝트)](https://github.com/sunjungAn/hand_writing_correction_website)
-+ 알고리즘 스터디
++ [알고리즘](https://github.com/sunjungAn/algorithm)
 + [promotion seoul 앱 프로젝트](https://github.com/sunjungAn/promotion_seoul)
 
 ### 2020년 2학기
@@ -68,6 +68,6 @@ Experience & Projects
 + [AWS 스터디](https://github.com/sunjungAn/AWS_study)
 + [자료구조 멘토](https://github.com/sunjungAn/DataStructure_mentoring)
 + [머신러닝 관련 영상, 글 시청](https://github.com/sunjungAn/helpful-summary-of-the-article)
-+ [알고리즘](url)
++ [알고리즘](https://github.com/sunjungAn/algorithm)
 
  
