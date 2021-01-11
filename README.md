@@ -67,7 +67,7 @@ Experience & Projects
 + [코틀린 스터디](https://github.com/sunjungAn/Kotlin_basic)
 + [AWS 스터디](https://github.com/sunjungAn/AWS_study)
 + [자료구조 멘토](https://github.com/sunjungAn/DataStructure_mentoring)
-+ [머신러닝 관련 영상, 글 시청](https://github.com/sunjungAn/helpful-summary-of-the-article)
 + [알고리즘](https://github.com/sunjungAn/algorithm)
++ [AI_선형대수](https://github.com/sunjungAn/ai_linear-algebra)
 
  
