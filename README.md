@@ -69,5 +69,4 @@ Experience & Projects
 + [자료구조 멘토](https://github.com/sunjungAn/DataStructure_mentoring)
 + [알고리즘](https://github.com/sunjungAn/algorithm)
 + [AI_선형대수](https://github.com/sunjungAn/ai_linear-algebra)
-
- 
++ 참고 사이트 : (https://www.edwith.org/hellodl101/lecture/103151/)
