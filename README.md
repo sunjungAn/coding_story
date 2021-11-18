@@ -88,7 +88,7 @@ Experience & Projects
 ### 자기주도 학습 전략 공모전 최우수상 | (2021.06 ~ 2021.07)
         + 진행했던 활동들, 학업 성적 관리에 대한 에세이를 작성하여 최우수상 수상
         + 상명대학교 ebook 기재
-        + https://open.smu.ac.kr/%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/2021-1%EC%9E%90%EA%B8%B0%EC%A3%BC%EB%8F%84%EC%A0%81-%ED%95%99%EC%8A%B5%EC%A0%84%EB%9E%B5-%EA%B0%95%ED%99%94-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%9A%B0%EC%88%98%EC%82%AC%EB%A1%80%EC%A7%91-pdf-1
+        + https://github.com/sunjungAn/my-activitie-photos/blob/master/2021-1%EC%9E%90%EA%B8%B0%EC%A3%BC%EB%8F%84%EC%A0%81%20%ED%95%99%EC%8A%B5%EC%A0%84%EB%9E%B5%20%EA%B0%95%ED%99%94%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%9A%B0%EC%88%98%EC%82%AC%EB%A1%80%EC%A7%91.pdf
 
         
 ### 버스커 어플리케이션 프로젝트 | (2021.11 ~ ing)
