@@ -144,10 +144,10 @@ Experience & Projects
 
 
 ### 2021년 2학기
-+ wanted! 해 커리어 공모전 출전(버스킹 프로그램)
++ [wanted! 해 커리어 공모전 출전(버스킹 프로그램)](https://github.com/hyunmin0317/BUSKERS-FrontEnd)
 + 성격별 공감 댓글 생성 프로그램
 + 자기주도 학습전략 공모전 수상
-+ android studio 멘토링 - 상명대학교 정보 제공 어플리케이션 제작
++ [android studio 멘토링 - 상명대학교 정보 제공 어플리케이션 제작](https://github.com/sunjungAn/Sangmyung-Univ.-Info-App)
 + 오름 페스티벌 발표
 
 
